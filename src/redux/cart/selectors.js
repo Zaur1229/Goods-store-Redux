@@ -1,0 +1,1 @@
+export const getCartSelector = store => store.cartReducer.cart
